@@ -1,6 +1,8 @@
 # nokogiri-script
 
-* Given HTML: "<div class="images"><img src="/pic.jpg"></div>" Using Nokogiri how would you select the src attribute from the image? Show me two different ways to do that correctly the the HTML given.
+* Given HTML: 
+```html<div class="images"><img src="/pic.jpg"></div>``` 
+Using Nokogiri how would you select the src attribute from the image? Show me two different ways to do that correctly the the HTML given.
 
 * If found HTML was a collection of li tags within a div with class="attr", how would you use Nokogiri to collect that information into one array?
 
