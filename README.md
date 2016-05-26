@@ -5,6 +5,8 @@
 * If found HTML was a collection of li tags within a div with class="attr", how would you use Nokogiri to collect that information into one array?
 
 * Given the following HTML:
+
+```html
 <div class="listing">
 <div class="row">
 <span class="left">Title:</span>
@@ -27,5 +29,6 @@
 <span class="right">Ruby Scholar</span>
 </div>
 </div>
+```
 
 Please collect all of the data presented into a key-value store. Please include code and the output.
